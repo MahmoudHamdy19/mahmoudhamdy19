@@ -3,7 +3,7 @@
 
 ## You can reach me via
 - Email: hamdymhmoud31@gmail.com
-- LinkedIn: [[Mahmoud Hamdy](https://www.linkedin.com/in/mahmoud-hamdy-9505bb201/)]
+- LinkedIn: [[Mahmoud Hamdy](https://www.linkedin.com/in/mahmoudhamdy19/)]
 - Please feel free to check out my CV at Mahmoud_Hamdy_Flutter_Developer_Resume](https://drive.google.com/file/d/1pG8gcyxrj6hUnI5lizHew2iSb5cWEaqt/view?usp=sharing).
 ## About Me
  - 🔭 **I’m currently working on** Flutter development projects and contributing to real projects weekly at Happy Softwater Platform.<br>
@@ -15,18 +15,16 @@
 
 <div align="center">
     <h2>📊 GitHub Stats:</h2>
-    <a href="https://github.com/mahmoudmavia19"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mahmoudmavia19&theme=default&show_icons=true&include_all_commits=true&count_private=true"/></a><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmavia19&theme=default&hide_border=false"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudmavia19&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br>
+    <a href="https://github.com/mahmoudhamdy19"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mahmoudhamdy19&theme=default&show_icons=true&include_all_commits=true&count_private=true"/></a><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudhamdy19&theme=default&hide_border=false"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhamdy19&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br>
     <h2>🏆 GitHub Trophies:</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=mahmoudmavia19&theme=monokai&no-frame=false&no-bg=true&margin-w=4"><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=mahmoudhamdy19&theme=monokai&no-frame=false&no-bg=true&margin-w=4"><br>
     <h2>🌐 Socials:</h2>
-    <a href="https://behance.net/mahmoudmavia19"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"></a>
-    <a href="https://facebook.com/mahmoudmavia19"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-    <a href="https://instagram.com/mahmoudmavia19"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-    <a href="https://linkedin.com/in/mahmoudmavia19"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-    <a href="https://twitter.com/mahmoudmavia19"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
-</div>
+    <a href="https://behance.net/mahmoudhamdy19"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"></a>
+    <a href="https://facebook.com/mahmoudhamdy19"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+     <a href="https://linkedin.com/in/mahmoudhamdy19"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+ </div>
 
 
 # 💻 Tech Stack:
@@ -36,6 +34,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahmoudmavia19&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mahmoudhamdy19&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
